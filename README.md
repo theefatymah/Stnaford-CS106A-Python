@@ -4,8 +4,7 @@
 
 Welcome to my **Code in Place 2025** journey! 👩‍🏫✨
 
-I’m **Mah Noor Fatima**, 
-- a proud volunteer Section Leader for **Stanford University's CS106A – Programming Methodology**, through the global learning initiative **Code in Place 2025**.
+I'm **Mah Noor Fatima**, a proud volunteer Section Leader for **Stanford University's CS106A – Programming Methodology**, through the global learning initiative **Code in Place 2025**
 
 This repository documents:
 - My weekly teaching sessions
@@ -25,7 +24,6 @@ This repository documents:
 ---
 
 ## 👩‍🏫 About Me
-
 - 🇵🇰 Software Engineer from Pakistan  
 - 🎓 Section Leader for Stanford's Code in Place 2025  
 - 💻 MERN Stack Developer  
@@ -71,7 +69,6 @@ Feel free to connect or reach out:
 - 🐙 [GitHub – Mah Noor Fatima](https://github.com/theefatymah)
 - 📧 Email: [theefatymah@gmail.com](mailto:theefatymah@gmail.com)
 
----
 
 > 💬 *“Teaching is the best way to learn — and to make the world a little better.”*  
 > — Mah Noor Fatima
