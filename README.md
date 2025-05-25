@@ -10,7 +10,7 @@ I'm **Mah Noor Fatima**, a proud volunteer Section Leader for **Stanford Univers
 ## 📌 Table of Contents
 
 - 👩‍🏫 [About Me](#-about-me)
-- [You'll Find](#-What-You'll-Find-Here)
+- 📂 [You'll Find](#-what-youll-find-here)
 - 🌐 [My Students](#-my-students)
 - 📚 [Sections](#-sections)
 - 📬 [Contact](#-contact)
