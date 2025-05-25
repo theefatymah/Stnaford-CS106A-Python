@@ -1,42 +1,66 @@
-# 🌍 Stanford Code in Place 2025 – Section Leader Repository
+# 🌍 Stanford Section Leader – Code in Place 2025
 
-Welcome to my official repository as a **Section Leader** for Stanford University's **Code in Place 2025 (CS106A)**.  
-This experience connects passionate learners from around the globe to the joy of computer science, and I’m proud to contribute to that mission.
+**Stanford Section Leader at 1AM — Guiding 5 Continents Through CS106A, Connecting Minds Worldwide.**
+
+Welcome to my Code in Place 2025 journey! 
+-I’m Mah Noor Fatima, one of the volunteer Section Leaders selected to teach Stanford's CS106A – Programming Methodology. 
+-This repository documents my weekly sessions, resources, and the learning progress of the amazing global students I’m mentoring.
+
+---
+
+## 📌 Table of Contents
+
+- [👩‍🏫 About Me](#-about-me)
+- [🌐 My Students](#-my-students)
+- [🏥 Sections](#-section)
+- [📬 Contact](#-contact)
 
 ---
 
 ## 👩‍🏫 About Me
-Hi, I’m **Mah Noor Fatima**, a Software Engineer from Pakistan 🇵🇰 and currently a Section Leader for Stanford's Code in Place — guiding a diverse group of students from **5 continents** through the fundamentals of Python using **Karel the Robot** and Stanford’s engaging curriculum.
+
+- 🇵🇰 Software Engineer from Pakistan  
+- 🎓 Stanford Code in Place 2025 Section Leader  
+- 💻 MERN Stack Developer  
+- 🤝 Passionate about teaching, mentorship & community work  
+- 🌍 Love guiding students from diverse cultures  
+- 📚 Lifelong learner with interest in Machine Learning and AI  
+- 🧠 Believer in learning by building  
 
 ---
 
-## 💡 What You'll Find Here
+## 🌐 My Students
 
-| Section | Description |
-|--------|-------------|
-| 📘 `Section_Slides/` | Lecture slides used during my live section sessions (Week-wise). |
-| 📂 `Code_Solutions/` | Example solutions for problems like Hospital Karel and more. |
-| 🧠 `Student_Resources.md` | Helpful links, practice exercises, and coding tools for my students. |
-| 📎 `Karel_Annotations/` | Visual walkthroughs and problem-solving steps using [Karel Helper](https://karelhelper.com/). |
-| 📄 `Session_Summaries/` | Summarized notes of what we covered in each session. |
+I'm mentoring **14 incredible students from 5 continents**. Here's where they're from:
 
----
+| 🌍 | 🌍 |
+|----|----|
+| 🇳🇱 Netherlands | 🇿🇦 South Africa |
+| 🇨🇴 Colombia | 🇩🇪 Germany |
+| 🇯🇴 Jordan | 🇺🇸 USA |
+| 🇰🇪 Kenya | 🇬🇭 Ghana |
+| 🇵🇰 Pakistan | 🇪🇸 Spain |
+| 🇳🇬 Nigeria | 🇦🇪 UAE |
+| 🇪🇬 Egypt | |
 
-## 🌐 Global Teaching, Local Impact
-
-🕐 Sessions at 1AM from Pakistan,  
-🌍 Students from: Netherlands, South Africa, Colombia, Germany, Jordan, USA, Kenya, Ghana, Spain, Nigeria, UAE, Egypt, and Pakistan.
-
-This experience is not just about code — it’s about creating **global connections**, **building confidence**, and **inspiring future tech leaders**.
-
-## 📬 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahnoor-fatima/)
-- 🌐 [Portfolio Website](#)
-- 📧 Contact: your.email@example.com
+Each student brings unique energy, dreams, and potential — from beginners to aspiring ML engineers.
 
 ---
 
+## 🏥 Section
+
+- [Section1](#)
+
+
+---
+
+## 📬 Contact
+
+If you're a student, fellow educator, or developer interested in CS education, feel free to connect!
+
+- 💼 [LinkedIn – Mah Noor Fatima](https://www.linkedin.com/in/theefatymah/)
+- 🐙 [GitHub – MahNoorFatima](https://github.com/theefatymah)
+- 📧 Email: [theefatymah@gmail.com](theefatymah@gmail.com)
+  
 > “Teaching is the best way to learn — and to make the world a little better.”  
 > — Mah Noor Fatima
-
