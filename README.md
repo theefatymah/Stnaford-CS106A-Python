@@ -23,8 +23,7 @@ Welcome to my Code in Place 2025 journey!
 - 🇵🇰 Software Engineer from Pakistan  
 - 🎓 Stanford Code in Place 2025 Section Leader  
 - 💻 MERN Stack Developer  
-- 🤝 Passionate about teaching, mentorship & community work  
-- 🌍 Love guiding students from diverse cultures  
+- 🤝 Passionate about community work 
 - 📚 Lifelong learner with interest in Machine Learning and AI  
 - 🧠 Believer in learning by building  
 
@@ -32,9 +31,10 @@ Welcome to my Code in Place 2025 journey!
 
 ## 🌐 My Students
 
-I'm mentoring **14 incredible students from 5 continents**. Here's where they're from:
+Mentoring **14 incredible students from 5 continents**. 
 
-| 🌍 | 🌍 |
+Here's where they're from:
+
 |----|----|
 | 🇳🇱 Netherlands | 🇿🇦 South Africa |
 | 🇨🇴 Colombia | 🇩🇪 Germany |
@@ -60,8 +60,9 @@ Each student brings unique energy, dreams, and potential — from beginners to a
 If you're a student, fellow educator, or developer interested in CS education, feel free to connect!
 
 - 💼 [LinkedIn – Mah Noor Fatima](https://www.linkedin.com/in/theefatymah/)
-- 🐙 [GitHub – MahNoorFatima](https://github.com/theefatymah)
+- 🐙 [GitHub – Mah Noor Fatima](https://github.com/theefatymah)
 - 📧 Email: [theefatymah@gmail.com](theefatymah@gmail.com)
+
   
 > “Teaching is the best way to learn — and to make the world a little better.”  
 > — Mah Noor Fatima
