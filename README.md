@@ -6,20 +6,15 @@ Welcome to my **Code in Place 2025** journey! 👩‍🏫✨
 
 I'm **Mah Noor Fatima**, a proud volunteer Section Leader for **Stanford University's CS106A – Programming Methodology**, through the global learning initiative **Code in Place 2025**
 
-This repository documents:
-- My weekly teaching sessions
-- Core computer science concepts covered
-- Progress of an international cohort of beginner programmers
-- Free educational tools and collaborative coding resources 🌐💡
-
----
 
 ## 📌 Table of Contents
 
-- [👩‍🏫 About Me](#-about-me)
-- [🌐 My Students](#-my-students)
-- [📚 Sections](#-sections)
-- [📬 Contact](#-contact)
+- 👩‍🏫 [About Me](#-about-me)
+- [You'll Find](#-What-You'll-Find-Here)
+- 🌐 [My Students](#-my-students)
+- 📚 [Sections](#-sections)
+- 📬 [Contact](#-contact)
+
 
 ---
 
@@ -30,6 +25,17 @@ This repository documents:
 - 🤝 Active in community education and tech volunteering  
 - 📚 Passionate about AI, ML, and inclusive learning  
 - 🧠 Lifelong learner and believer in teaching by building  
+
+---
+## 💡 What You'll Find Here
+
+| Section | Description |
+|--------|-------------|
+| 📘 `Section_Slides` | Lecture slides used during my live section sessions (Week-wise). |
+| 📂 `Code_Solutions` | Example solutions for problems like Hospital Karel and more. |
+| 🧠 `Student_Resources.md` | Helpful links, practice exercises, and coding tools for my students. |
+| 📎 `Karel_Annotations` | Visual walkthroughs and problem-solving steps using [Karel Helper](https://karelhelper.com/). |
+| 📄 `Session_Summaries` | Summarized notes of what we covered in each session. |
 
 ---
 
@@ -66,6 +72,7 @@ My students come from different time zones, technical backgrounds, and cultures 
 - [Section-6](Section-6/README.md)
   - 
 ---
+
 
 
 ## 📬 Contact
