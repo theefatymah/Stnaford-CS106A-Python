@@ -3,8 +3,9 @@
 **Stanford Section Leader at 1AM — Guiding 5 Continents Through CS106A, Connecting Minds Worldwide.**
 
 Welcome to my Code in Place 2025 journey! 
--I’m Mah Noor Fatima, one of the volunteer Section Leaders selected to teach Stanford's CS106A – Programming Methodology. 
--This repository documents my weekly sessions, resources, and the learning progress of the amazing global students I’m mentoring.
+
+- I’m Mah Noor Fatima, one of the volunteer Section Leaders selected to teach Stanford's CS106A – Programming Methodology. 
+- This repository documents my weekly sessions, resources, and the learning progress of the amazing global students I’m mentoring.
 
 ---
 
