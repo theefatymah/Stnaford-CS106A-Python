@@ -62,13 +62,13 @@ My students come from different time zones, technical backgrounds, and cultures 
 - [Section-1](Section-1/README.md)
   - 🏥 Hospital Karel
 - [Section-2](Section-2/README.md)
-  - 
+  - Art of Karel
 - [Section-3](Section-3/README.md)
-  - 
+  - Intro to Python
 - [Section-4](Section-4/README.md)
-  - 
+  - Control Flow
 - [Section-5](Section-5/README.md)
-  - 
+  - Graphics
 - [Section-6](Section-6/README.md)
   - 
 ---
