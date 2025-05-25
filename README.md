@@ -55,7 +55,7 @@ My students come from different time zones, technical backgrounds, and cultures 
 
 ## 📚 Sections
 
-- (Section-1)[#section-1]
+- [Section-1](#section-1)
   - 🏥 Hospital Karel
 - 
 ---
