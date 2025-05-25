@@ -53,7 +53,7 @@ My students come from different time zones, technical backgrounds, and cultures 
 
 ## 📚 Sections
 
-- [Section-1](#Section-1/README.md)
+- [Section-1](Section-1/README.md)
   - 🏥 Hospital Karel
 - 
 ---
