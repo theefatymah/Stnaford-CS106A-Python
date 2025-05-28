@@ -43,8 +43,8 @@ This helped every student go from “I’ve never coded before” to “I just b
 | 📂 File | 📌 Description |
 |--------|----------------|
 | `Hospital_Karel.py` | Final, clean solution with best practices |
-| `Hospital_Annotations.png` | Visual breakdown of our approach and thought process |
-| `Section1_Slides.pdf` | Slides used during the live Zoom session |
+| `Hospital_Karel_Annotations.pdf` | Visual breakdown of our approach and thought process |
+| `Section_Week1.pdf` | Slides used during the live Zoom session |
 
 ---
 
