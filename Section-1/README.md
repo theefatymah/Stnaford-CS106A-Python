@@ -45,7 +45,6 @@ This helped every student go from “I’ve never coded before” to “I just b
 | `Hospital_Karel.py` | Final, clean solution with best practices |
 | `Hospital_Annotations.png` | Visual breakdown of our approach and thought process |
 | `Section1_Slides.pdf` | Slides used during the live Zoom session |
-| `Session1_Notes.md` | Key takeaways, questions, and concepts reviewed |
 
 ---
 
