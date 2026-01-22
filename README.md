@@ -70,7 +70,7 @@ My students come from different time zones, technical backgrounds, and cultures 
 - [Section-5](Section-5/README.md)
   - Graphics
 - [Section-6](Section-6/README.md)
-  - 
+  - Data Structures
 ---
 
 
